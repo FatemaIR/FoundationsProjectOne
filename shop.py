@@ -127,10 +127,10 @@ def print_order(order_list):
     card = accept_credit_card(final_price)
     print(card)
 
-    print("*****************")
+    print("******************")
     print(cupcake_shop_name)
     print("Thank you for shopping with us ^*^ ") 
-    print("*****************")
+    print("******************")
 
 
 print_menu()
